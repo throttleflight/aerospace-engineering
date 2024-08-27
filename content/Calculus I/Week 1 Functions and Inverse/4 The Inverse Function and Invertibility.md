@@ -29,6 +29,7 @@ $$f^{-1}(x) = x^2 \to Domain: [0, ∞)$$
 ![[Function1.png]]
 
 ![[InverseFunction.png]]
+
 The two graphs have different domains. This is because we took the inverse function of a square root.
 #### **Invertibility:**
 >[!Theorem]
