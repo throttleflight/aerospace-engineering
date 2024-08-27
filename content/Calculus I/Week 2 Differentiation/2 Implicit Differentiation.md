@@ -44,5 +44,3 @@ By applying this to the circle, we can get the 2 equations of the upper half and
 ![[Folium of Descartes.png]]
 
 Another example can be used on the folium of Descartes. The equation is $x^3+y^3=6xy$ and when $y=y(x)$ is defined implicitly, $\frac{dy}{dx}=\frac{6y-3x^2}{3y^2-6x}$.
-#### Example of Implicit Differentiation in Action:
-![[Example of Implicit Differentiation in Action.mp4]]
