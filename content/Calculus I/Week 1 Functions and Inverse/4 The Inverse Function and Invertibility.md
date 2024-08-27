@@ -21,7 +21,9 @@ $$f^{-1}(f(x)) = x$$
 
 ###### **Example:**
 $$f(x) = \sqrt{ x }$$
+
 The inverse of the function above would be...
+
 $$f^{-1}(x) = x^2 \to Domain: [0, ∞)$$
 
 ![[Function1.png]]
