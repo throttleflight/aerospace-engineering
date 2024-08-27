@@ -10,6 +10,7 @@ title: Implicit Differentiation
 ##### Implicit Form:
 - $x^3+y^3=6xy$
 - $x^2+y^2=9$
+
 An explicit formula is a function that expresses one variable as a function of the other, while an implicit formula represents a relationship between variables without expressing one variable in terms of the other.
 
 For a function that passes the vertical line test, the slope of a tangent line to the curve can be found by explicit differentiation. For a function that does not pass the vertical line test, we can use implicit differentiation.
@@ -21,6 +22,7 @@ When we are finding the tangent line of a circle, we do not have an explicit for
 The circle above is split into 2 equations.
 - $y=\sqrt{ 9-x^2 }$
 - $y=-\sqrt{ 9-x^2 }$
+
 The tangent of any of these equations would just be the derivative of the equation. Take the first equation as an example.
 $\frac{dy}{dx}=\frac{-x}{\sqrt{ 9-x^2 }}$
 For the lower half, it would be...
