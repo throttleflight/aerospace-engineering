@@ -13,7 +13,7 @@ title: The Gradient of a Function
 **Proof:**
 The dot product of two vectors **v** and **w** is always given by
 
-$$v\cdot w = ||v|| ||w|| \cos(\theta)$$
+$$v\cdot w = ||v|| \space ||w|| \cos(\theta)$$
 
 where $\theta$ is the angle between **v** and **w**.
 
