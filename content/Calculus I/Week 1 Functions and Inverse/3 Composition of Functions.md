@@ -1,14 +1,7 @@
 ---
-CourseCode: MMFEC1X
-Semester: Summer 2024
-Relevance: Low
-Week: Week 1
-dg-publish: true
-dg-show-toc: true
-dg-home-link: true
-dg-show-local-graph: true
+title: Composition of Functions
 ---
-#school-note 
+
 #### **Product of Functions Definition:**
 ```
 Given functions f(x) and g(x) we can form their product f g:
