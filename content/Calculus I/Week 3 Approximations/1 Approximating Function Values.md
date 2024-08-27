@@ -27,13 +27,13 @@ So in this case, we use approximations.
 
 ##### Example
 If we consider that $\sqrt{ 101 } \approx \sqrt{ 100 }=10$ then
-$$
-E = |\sqrt{ 101 }-10| \leq 0.05
-$$
+
+$$E = |\sqrt{ 101 }-10| \leq 0.05$$
+
 If we consider that $\sqrt{ 101 } \approx 10.05$ then
-$$
-E = |\sqrt{ 101 }-10.05| \leq 0.000125
-$$
+
+$$E = |\sqrt{ 101 }-10.05| \leq 0.000125$$
+
 Approximation methods often come with restrictions so the corresponding approximation error depends on values to which it is applied.
 
 
