@@ -1,19 +1,18 @@
 ---
-CourseCode: MMFEC2X
-Semester: Summer 2024
-Relevance: Low
-Week: Week 4
+title: Extreme Values
 ---
-#school-note 
+
 #### Absolute Extreme Values
 >[!Definition]
 >Let $p=(p_{1},\dots,p_{n})$ be a point in the domain $D$ of a function $f(x)$. Then $f(p)$ is the
+>
 >- **Absolute Maximum** value of $f$ on $D$ if $f(p)\geq f(x)$ for all $x$ in $D$.
 >- **Absolute Minimum** value of $f$ on $D$ if $f(p)\leq f(x)$ for all **$x$** in $D$.
 
 #### Local Extreme Values
 >[!Definition]
 >Let $p=(p_{1},\dots,p_{n})$ be a point in the domain $D$ of a function $f(x)$. Then $f(p)$ is a
+>
 >- **Local Maximum** value of $f$ if there exists a number $R>0$ such that $f(p)\geq f(x)$ for all $x$ such that $||x-p||<R$.
 >- **Local Minimum** value of $f$ if there exists a number $R>0$ such that $f(p)\leq f(x)$ for all $x$ such that $||x-p||<R$.
 
