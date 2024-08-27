@@ -1,13 +1,11 @@
 ---
-CourseCode: MMFEC2X
-Semester: Summer 2024
-Relevance: Low
-Week: Week 4
+title: Finding Extreme Values
 ---
-#school-note 
+
 #### Critical Points
 >[!Definition]
 >A point $p$ in the domain of a function $f$ of $n$ variables is called a **critical point** of $f$ if
+>
 >- $f_{x_{i}}(p)=0$ for $i=1,\dots,n$ or
 >- one of the partial derivatives fails to exist at $p$.
 
