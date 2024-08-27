@@ -1,14 +1,7 @@
 ---
-CourseCode: MMFEC1X
-Semester: Summer 2024
-Relevance: Low
-Week: Week 1
-dg-publish: true
-dg-show-toc: true
-dg-home-link: true
-dg-show-local-graph: true
+title: Definition of a Function
 ---
-#school-note 
+
 #### **Definition:** 
 ```
 A function f: ℝ -→ ℝ associates to each number x in its domain exactly one number f(x).
@@ -60,17 +53,7 @@ To figure out if a graph is a function or not, we use the Vertical Line test.
 >A curve in the plane is the graph of a function over a certain domain if every vertical line at x-values in that domain intersects the curve exactly once.
 
 ###### Example 1:
-```functionplot
----
-title: 
-xLabel: 
-yLabel: 
-bounds: [-5,5,-5,5]
-disableZoom: true
-grid: true
----
-y=1/x
-```
+![[Example 1.png]]
 Using the vertical line test, there is only 1 point on each vertical line, therefore making this a function.
 > [! Caution]
 > A circle is not a function as it does not pass the Vertical Line test.
