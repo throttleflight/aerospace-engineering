@@ -1,3 +1,7 @@
+---
+title: Welcome to Quartz 4
+---
+
 # Classes
 ```dataview
 TABLE CourseCode as "Course Code", Professor, Contact, Syllabus FROM "STUDENT RELATED"
