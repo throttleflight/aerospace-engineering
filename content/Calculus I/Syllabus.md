@@ -1,5 +1,5 @@
 ---
-title: Calculus I Syllabus
+title: Syllabus
 ---
 
 ### Syllabus: Mastering Mathematics for Engineers: Calculus I: from functions to differential equations
