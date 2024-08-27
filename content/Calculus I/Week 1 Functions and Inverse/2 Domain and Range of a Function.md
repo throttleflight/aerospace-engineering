@@ -1,12 +1,5 @@
 ---
-CourseCode: MMFEC1X
-Semester: Summer 2024
-Relevance: Low
-Week: Week 1
-dg-publish: true
-dg-show-toc: true
-dg-home-link: true
-dg-show-local-graph: true
+title: Domain and Range of a Function
 ---
 #school-note 
 A function can be seen as a machine that transforms an input to an output.
@@ -16,7 +9,9 @@ A function f: A -→ B is a rule that assigns to each element x in the set A, a 
 ```
 In this definition, the set A of all possible input values is called the **domain**.
 The set B is called the **co-domain** of the function.
-![[Drawing1.excalidraw|100%]]
+
+![[Drawing1.png|100%]]
+
 >[!info]
 >Left side is the "Domain" and right side is "Co-Domain"
 >Left side is the "Input" and right side is the "Output"
