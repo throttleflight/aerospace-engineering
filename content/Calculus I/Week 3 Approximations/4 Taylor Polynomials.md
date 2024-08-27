@@ -19,10 +19,6 @@ In the formula above, we use a value of $k!$ which represents k factorial. For e
 >$$f^{(k)}(a)=T_{n}^{(k)}(a)$$ for $k=0, 1, \dots, n$.
 
 ---
-#### Applied Taylor polynomials
-![[Applied Taylor polynomials.mp4]]
-
----
 #### **Computation rules**
 For relatively elementary functions it can be quite easy to compute Taylor polynomials. Sadly however, we often encounter complicated compositions of elementary function as well. Therefore, it can help to be able to express the Taylor polynomials for those complicated functions in terms of the Taylor polynomials of the elementary functions they are composed of. The following computation rules should allow for that method of computation.
 
