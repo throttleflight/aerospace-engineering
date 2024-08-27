@@ -1,14 +1,7 @@
 ---
-CourseCode: MMFEC1X
-Semester: Summer 2024
-Relevance: Low
-Week: Week 1
-dg-publish: true
-dg-show-toc: true
-dg-home-link: true
-dg-show-local-graph: true
+title: The Inverse Function and Invertibility
 ---
- #school-note 
+
 #### **Inverse Function Definition:**
 ```
 Suppose f is a function with domain D and range R.
@@ -17,8 +10,10 @@ if for all x in D and y in R the following holds:
 f(x) = y ⟺ x = g(y)
 ```
 Notation for Inverse Function:
-$$f^{-1}$$Note:
-$$f(f^{-1}(x)) = x $$and
+$$f^{-1}$$
+Note:
+$$f(f^{-1}(x)) = x $$
+and
 $$f^{-1}(f(x)) = x$$
 
 > [!caution]
@@ -29,29 +24,9 @@ $$f(x) = \sqrt{ x }$$
 The inverse of the function above would be...
 $$f^{-1}(x) = x^2 \to Domain: [0, ∞)$$
 
-```functionplot
----
-title: Function 1
-xLabel: 
-yLabel: 
-bounds: [-10,10,-10,10]
-disableZoom: true
-grid: true
----
-y = sqrt(x)
-```
+![[Function1.png]]
 
-```functionplot
----
-title: Inverse of the Function
-xLabel: 
-yLabel: 
-bounds: [-10,10,-10,10]
-disableZoom: true
-grid: true
----
-y=x^2
-```
+![[InverseFunction.png]]
 The two graphs have different domains. This is because we took the inverse function of a square root.
 #### **Invertibility:**
 >[!Theorem]
@@ -63,17 +38,7 @@ $$f(x_{1}) ≠ f(x_{2}) \to x_{1}≠x_{2} $$
 >[!theorem]
 >A function is invertible if and only if all horizontal lines intersect the graph of the function in at most 1 place.
 
-```functionplot
----
-title: 
-xLabel: 
-yLabel: 
-bounds: [-5,5,-2,18]
-disableZoom: true
-grid: true
----
-y=x^2
-```
+![[HorizontalLineTest]]
 
 Using the graph above, the horizontal line will not work because it will touch 2 areas.
 Therefore, the inverse of the graph above would become...
