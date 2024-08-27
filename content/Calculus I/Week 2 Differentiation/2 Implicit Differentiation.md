@@ -1,14 +1,7 @@
 ---
-CourseCode: MMFEC1X
-Semester: Summer 2024
-Relevance: Low
-Week: Week 2
-dg-publish: true
-dg-show-toc: true
-dg-home-link: true
-dg-show-local-graph: true
+title: Implicit Differentiation
 ---
-#school-note 
+
 #### Implicit Functions
 ##### Explicit Form:
 - $y=3x^3\ln{x}$
@@ -23,18 +16,8 @@ For a function that passes the vertical line test, the slope of a tangent line t
 
 When we are finding the tangent line of a circle, we do not have an explicit formula. In this case, we can split the circle in half.
 
-```functionplot
----
-title: 
-xLabel: 
-yLabel: 
-bounds: [-3.5,3.5,-3.5,3.5]
-disableZoom: true
-grid: true
----
-y=sqrt(9-x^2)
-y=-sqrt(9-x^2)
-```
+![[Circle.png]]
+
 The circle above is split into 2 equations.
 - $y=\sqrt{ 9-x^2 }$
 - $y=-\sqrt{ 9-x^2 }$
