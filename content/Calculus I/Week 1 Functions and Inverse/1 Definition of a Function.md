@@ -44,31 +44,11 @@ $$
 The graph of a function f: ℝ -→ ℝ is the curve going through all the points (x, f(x)) for x in the domain of f.
 ```
 ###### Graph Example:
-```functionplot
----
-title: Falling Object
-xLabel: time in s
-yLabel: height in m
-bounds: [0,7,0,225]
-disableZoom: true
-grid: true
----
-y = 200-5*x^2
-```
+![[Falling Object.png]]
 $$
 Falling Object: H(t)=200-\frac{1}{2}\cdot_{}10\cdot_{}t^2
 $$
-```functionplot
----
-title: Ideal Gas
-xLabel: temperature in K
-yLabel: pressure in Pa
-bounds: [0,400,0,150000]
-disableZoom: true
-grid: true
----
-y = 45*8*x
-```
+![[Ideal Gas.png]]
 $$
 Ideal Gas: P(T)=45\cdot_{}8\cdot{}T
 $$
