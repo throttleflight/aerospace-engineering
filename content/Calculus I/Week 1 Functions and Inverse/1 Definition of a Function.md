@@ -54,7 +54,8 @@ To figure out if a graph is a function or not, we use the Vertical Line test.
 
 ###### Example 1:
 ![[Example 1.png]]
+
 Using the vertical line test, there is only 1 point on each vertical line, therefore making this a function.
-> [! Caution]
+> [!Caution]
 > A circle is not a function as it does not pass the Vertical Line test.
 
