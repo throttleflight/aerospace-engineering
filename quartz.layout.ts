@@ -49,31 +49,21 @@ export const defaultListPageLayout: PageLayout = {
   right: [],
 }
 
+// Sort order: folders first, then files. Sort folders and files alphabetically
 Component.Explorer({
   sortFn: (a, b) => {
-    const nameOrderMap: Record<string, number> = {
-      "poetry-folder": 100,
-      "essay-folder": 200,
-      "research-paper-file": 201,
-      "dinosaur-fossils-file": 300,
-      "other-folder": 400,
+    if ((!a.file && !b.file) || (a.file && b.file)) {
+      // sensitivity: "base": Only strings that differ in base letters compare as unequal. Examples: a ≠ b, a = á, a = A
+      // numeric: true: Whether numeric collation should be used, such that "1" < "2" < "10"
+      return a.displayName.localeCompare(b.displayName, undefined, {
+        numeric: true,
+        sensitivity: "base",
+      })
     }
- 
-    let orderA = 0
-    let orderB = 0
- 
-    if (a.file && a.file.slug) {
-      orderA = nameOrderMap[a.file.slug] || 0
-    } else if (a.name) {
-      orderA = nameOrderMap[a.name] || 0
+    if (a.file && !b.file) {
+      return 1
+    } else {
+      return -1
     }
- 
-    if (b.file && b.file.slug) {
-      orderB = nameOrderMap[b.file.slug] || 0
-    } else if (b.name) {
-      orderB = nameOrderMap[b.name] || 0
-    }
- 
-    return orderA - orderB
   },
 })
