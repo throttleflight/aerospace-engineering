@@ -1,14 +1,7 @@
 ---
-CourseCode: MMFEC1X
-Semester: Summer 2024
-Relevance: Low
-Week: Week 2
-dg-publish: true
-dg-show-toc: true
-dg-home-link: true
-dg-show-local-graph: true
+title: Introduction to Derivatives
 ---
-#school-note 
+
 #### Rate of Change
 >[!Definition]
 >The rate of change of the function $y=f(x)$ over the interval $[a, b]$ is given by:
@@ -19,31 +12,13 @@ dg-show-local-graph: true
 >$$f'(a) = \lim_{ \triangle{x} \to 0 }\frac{\triangle{y}}{\triangle{x}} = \lim_{ b \to a }\frac{f(b)-f(a)}{b-a}$$
 
 ##### Graph:
-```functionplot
----
-title: Example Graph
-xLabel: 
-yLabel: 
-bounds: [-5,5,-3,23]
-disableZoom: true
-grid: true
----
-y=-5x^2+20
-y=2x+17
-```
+
+![[ExampleGraph.png]]
+
 In this graph, if we keep on making the interval smaller and smaller, then the line will become a tangent. A tangent line has only 1 point touching the parabola line.
-```functionplot
----
-title: Tangent Line
-xLabel: 
-yLabel: 
-bounds: [-5,5,-3,23]
-disableZoom: true
-grid: true
----
-y=-5x^2+20
-y=10x+25
-```
+
+![[TangentLine.png]]
+
 >[!Definition]
 >Given a function $f(x)$ the tangent line to the graph of $f$ at the point $a$ in the domain is given by the equation
 >$$y=f(a)+f'(a)(x-a)$$
