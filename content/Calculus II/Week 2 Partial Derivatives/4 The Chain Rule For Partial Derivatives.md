@@ -1,28 +1,32 @@
 ---
-CourseCode: MMFEC2X
-Semester: Summer 2024
-Relevance: Low
-Week: Week 2
+title: The Chain Rule For Partial Derivatives
 ---
-#school-note 
+
 #### Chain Rule - One Variable
 > [!question] Chain Rule
 > If $h(x) = f(g(x))$ then
+> 
 > $$h'(x)=f'(g(x))\cdot g'(x)$$
 
 **Remark:**
 If $y=g(x)$, then Chain rule can be rewritten to
+
 $$\frac{dh}{dx}=\frac{df}{dy} \frac{dy}{dx}$$
+
 #### Chain Rule - Simplest Version
 >[!abstract] Theorem
 >If $z=f(x,y)$, $x=g(t)$, and $y=h(t)$, then
+>
 >$$\frac{dz}{dt}=\frac{∂f}{∂x} \frac{dx}{dt}+\frac{∂f}{∂y} \frac{dy}{dt}$$
 
 #### Chain Rule - Two Independent Variables
 >[!abstract] Theorem
 >If $z=f(x,y)$, $x=g(s,t)$, and $y=h(s,t)$, then
+>
 >$$\frac{∂z}{∂s}=\frac{∂f}{∂x} \frac{∂x}{∂s}+\frac{∂f}{∂y} \frac{∂y}{∂s}$$
+>
 >and
+>
 >$$\frac{∂z}{∂t}=\frac{∂f}{∂x} \frac{∂x}{∂t}+\frac{∂f}{∂y} \frac{∂y}{∂t}$$
 
 **Remark:**
