@@ -1,10 +1,3 @@
----
-dg-publish: true
-dg-home: true
-dg-home-link: true
-dg-show-local-graph: true
-dg-show-toc: true
----
 # Classes
 ```dataview
 TABLE CourseCode as "Course Code", Professor, Contact, Syllabus FROM "STUDENT RELATED"
