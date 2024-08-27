@@ -1,14 +1,13 @@
 ---
-CourseCode: MMFEC1X
-Semester: Summer 2024
-Relevance: Low
-Week: Week 6
+title: Separable Differential Equations
 ---
-#school-note 
+
 #### Separable Differential Equations
 >[!Definition]
 >A (first-order) **separable differential equation** is a first-order differential equation in which the expression for $y'=\frac{dx}{dy}$ can be factored as a function of $x$ times a function of $y$.
+>
 >In other words, it can be written in the form
+>
 >$$\frac{dy}{dx}=f(x)g(y)=\frac{f(x)}{h(y)}$$
 
 >[!Info] Differential Form
