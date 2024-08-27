@@ -1,16 +1,8 @@
 ---
-CourseCode: MMFEC1X
-Semester: Summer 2024
-Relevance: Low
-Week: Week 1
-dg-home-link: true
-dg-publish: true
-dg-show-toc: true
-dg-show-local-graph: true
+title: Composition of (Inverse) Trigonometric Values
 ---
-#school-note 
-#### Regular Values:
 
+#### Regular Values:
 | Angle $\theta$  | sin($\theta$)           | cos($\theta$)           | tan($\theta$)           |
 | --------------- | ----------------------- | ----------------------- | ----------------------- |
 | 0               | 0                       | 1                       | 0                       |
