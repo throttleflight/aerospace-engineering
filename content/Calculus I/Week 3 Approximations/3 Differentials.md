@@ -1,18 +1,18 @@
 ---
-CourseCode: MMFEC1X
-Semester: Summer 2024
-Relevance: Low
-Week: Week 3
+title: Differentials
 ---
-#school-note 
+
 #### Differential
 >[!Definition]
 >Given a function $y=f(x)$ the differential $dy=df$ of $f$ is given by
+>
 >$$dy = df = f'(x)dx$$
 
 >[!Note]
 >If we set $x=x_{0}$ and $dx=\triangle{x}$ we obtain the approximation
+>
 >$$\triangle{y} = f(x_{0} + \triangle{x}) - f(x_{0}) \approx dy$$
+>
 
 #### Error
 >[!Definition]
