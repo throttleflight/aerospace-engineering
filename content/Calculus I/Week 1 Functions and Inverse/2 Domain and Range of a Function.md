@@ -1,7 +1,7 @@
 ---
 title: Domain and Range of a Function
 ---
-#school-note 
+
 A function can be seen as a machine that transforms an input to an output.
 #### **Definition:**
 ```
