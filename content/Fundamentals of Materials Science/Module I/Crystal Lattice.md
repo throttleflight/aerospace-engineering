@@ -1,17 +1,14 @@
 ---
-CourseCode: FMS
-Semester: 2024-2025
-Relevance: Low
-Module: 01 - Module I
+title: Crystal Lattice
 ---
-#FMS 
+
 #### Table of Contents
 1. [[#Solids|Solids]]
 2. [[#Crystals|Crystals]]
-	1. [[#Crystals#Lattice + Basis|Lattice + Basis]]
-	2. [[#Crystals#Unit Cell: the Building Block|Unit Cell: the Building Block]]
-	3. [[#Crystals#System Types|System Types]]
-	4. [[#Crystals#7 Crystal Systems|7 Crystal Systems]]
+	1. [[#Lattice + Basis|Lattice + Basis]]
+	2. [[#Unit Cell: the Building Block|Unit Cell: the Building Block]]
+	3. [[#System Types|System Types]]
+	4. [[#7 Crystal Systems|7 Crystal Systems]]
 3. [[#Bravais Lattices|Bravais Lattices]]
 ---
 #### Solids
