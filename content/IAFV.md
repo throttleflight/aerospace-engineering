@@ -1,8 +1,14 @@
+---
+title: Introduction to Aerospace Flight Vehicles Table of Contents
+---
+
+*** As of 28th of August 2024, Chapter 4 and on is not complete. ***
+
 #### Table of Contents
 ###### Module I - Introductory
---> [[Chapter 1 - What is Aerospace Engineering]]
---> [[Chapter 2 - History of Aircraft & Aviation]]
---> [[Chapter 3 - History of Rockets & Space Flight]]
+--> [[Introduction to Aerospace Flight Vehicles/Module I - Introductory/Chapter 1 - What is Aerospace Engineering]]
+--> [[Introduction to Aerospace Flight Vehicles/Module I - Introductory/Chapter 2 - History of Aircraft & Aviation]]
+--> [[Introduction to Aerospace Flight Vehicles/Module I - Introductory/Chapter 3 - History of Rockets & Space Flight]]
 ###### Module II - Preparations
 --> [[Chapter 4 - Mathematics for Engineering]]
 --> [[Chapter 5 - Units & Conversion Factors]]
