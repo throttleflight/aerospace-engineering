@@ -7,7 +7,7 @@ title: Atomic Bonding
 2. [[#Interatomic Bond Types|Interatomic Bond Types]]
 3. [[#Bond Lengths|Bond Lengths]]
 4. [[#Primary Bonds|Primary Bonds]]
-	1. [[#Primary Bonds/#Ionic Bonding|Ionic Bonding]]
+	1. [[#Ionic Bonding|Ionic Bonding]]
 	2. [[#Primary Bonds/#Metallic Bonding|Metallic Bonding]]
 5. [[#Secondary Bonds|Secondary Bonds]]
 	1. [[#Secondary Bonds/#van der Waals Bonding|van der Waals Bonding]]
