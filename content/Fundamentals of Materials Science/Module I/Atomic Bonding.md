@@ -2,6 +2,18 @@
 title: Atomic Bonding
 ---
 
+#### Table of Contents
+1. [[#Bonding Forces and Energies|Bonding Forces and Energies]]
+2. [[#Interatomic Bond Types|Interatomic Bond Types]]
+3. [[#Bond Lengths|Bond Lengths]]
+4. [[#Primary Bonds|Primary Bonds]]
+	1. [[#Primary Bonds#Ionic Bonding|Ionic Bonding]]
+	2. [[#Primary Bonds#Metallic Bonding|Metallic Bonding]]
+5. [[#Secondary Bonds|Secondary Bonds]]
+	1. [[#Secondary Bonds#van der Waals Bonding|van der Waals Bonding]]
+	2. [[#Secondary Bonds#Hydrogen Bonding|Hydrogen Bonding]]
+6. [[#Bonding Character and Properties|Bonding Character and Properties]]
+---
 #### Bonding Forces and Energies
 The potential energy between two atoms has an equilibrium position where in the potential energy curve, it corresponds to a minimum where the atoms are at their equilibrium states. This is called equilibrium interatomic spacing.
 
