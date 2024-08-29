@@ -1,5 +1,6 @@
 ---
 title: Definition of a Function
+enableToc: true
 ---
 
 #### **Definition:** 
