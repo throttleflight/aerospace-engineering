@@ -57,4 +57,5 @@ Interstitial Solid Solution:
 - the alloying element atoms occupy the interstitial sites in the host element lattice
 #### Single v.s. Poly-Crystals
 Single Crystals: The periodic arrangement of atoms extends throughout the entirety of the specimen without interruption. (Usually characterized by facets)
+
 Polycrystal: The crystal is comprised of a collection of many single crystals (grains, to be elaborated in the next chapter on crystal defects).
