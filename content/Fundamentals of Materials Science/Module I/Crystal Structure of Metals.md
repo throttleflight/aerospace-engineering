@@ -16,6 +16,7 @@ Atomic Radii and Crystal Structures for 16 Metals
 | Lead            | FCC                   | 0.1750                   | Zinc                | HCP               | 0.1332               |
 
 $^a$ FCC = face-centered cubic; HCP = hexagonal close-packed; BCC = body-centered cubic.
+
 $^b$ A nanometer (nm) equals $10^{-9}$ m; to convert from nanometers to angstrom units ($Å$), multiply the nanometer value by 10.
 
 - Number of atoms in a unit cell.
