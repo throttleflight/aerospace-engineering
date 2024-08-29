@@ -1,5 +1,6 @@
 ---
 title: Home
+enableExplorer: true
 ---
 
 # Classes
