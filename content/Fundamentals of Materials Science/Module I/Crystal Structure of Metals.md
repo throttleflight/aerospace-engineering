@@ -1,7 +1,7 @@
 ---
 title: Crystal Structure of Metals
 ---
-#FMS 
+
 #### Crystal Structure of Metals
 Atomic Radii and Crystal Structures for 16 Metals
 | Metal           | Crystal Structure$^a$ | Atomic Radius$^b$ $(nm)$ | Metal               | Crystal Structure | Atomic Radius $(nm)$ |
@@ -14,8 +14,10 @@ Atomic Radii and Crystal Structures for 16 Metals
 | Gold            | FCC                   | 0.1442                   | Titanium ($\alpha$) | HCP               | 0.1445               |
 | Iron ($\alpha$) | BCC                   | 0.1241                   | Tungsten            | BCC               | 0.1371               |
 | Lead            | FCC                   | 0.1750                   | Zinc                | HCP               | 0.1332               |
+
 $^a$ FCC = face-centered cubic; HCP = hexagonal close-packed; BCC = body-centered cubic.
 $^b$ A nanometer (nm) equals $10^{-9}$ m; to convert from nanometers to angstrom units ($Å$), multiply the nanometer value by 10.
+
 - Number of atoms in a unit cell.
 - Coordination number (CN): # of the nearest-neighbor atoms
 - Atomic packing factor (APF): vol.% of atoms in a unit cell
