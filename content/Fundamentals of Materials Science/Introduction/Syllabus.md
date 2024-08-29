@@ -1,9 +1,7 @@
 ---
-CourseCode: FMS
-Semester: 2024-2025
-Relevance: High
+title: Syllabus
 ---
-#FMS 
+
 > [!abstract] Week 1
 > In week 1, you will get a brief introduction to materials science, as well as part 1 of module 1 including atomic bonding in solids, crystal lattices, and crystal structures of metals.
 > 📃5 videos
