@@ -1,13 +1,9 @@
 ---
-CourseCode: FMS
-Semester: 2024-2025
-Relevance: Low
-Module: 01 - Module I
+title: Crystal Structure of Metals
 ---
 #FMS 
 #### Crystal Structure of Metals
 Atomic Radii and Crystal Structures for 16 Metals
-
 | Metal           | Crystal Structure$^a$ | Atomic Radius$^b$ $(nm)$ | Metal               | Crystal Structure | Atomic Radius $(nm)$ |
 | --------------- | --------------------- | ------------------------ | ------------------- | ----------------- | -------------------- |
 | Aluminum        | FCC                   | 0.1431                   | Molybdenum          | BCC               | 0.1363               |
@@ -25,19 +21,27 @@ $^b$ A nanometer (nm) equals $10^{-9}$ m; to convert from nanometers to angstrom
 - Atomic packing factor (APF): vol.% of atoms in a unit cell
 #### Structural Parameters
 **Total Number of Atoms in a Unit Cell (N):**
+
 $$N=N_{i}+\frac{N_{f}}{2}+\frac{N_{c}}{8}$$
+
 - $N_{i}$: atoms inside a unit cell.
 - $N_{f}$: atoms on the surfaces of a unit cell.
 - $N_{c}$: atoms at the corners of a unit cell.
 **Atomic Packing Factor (APF):**
+  
 $$APF=\frac{Volume \space of \space atoms \space in \space a \space unit \space cell}{Total \space unit \space cell \space volume}$$
+
 $$APF = \frac{V_{a}}{V_{c}}=\frac{N \frac{4}{3}\pi R^3}{V_{c}}$$
-![[Pasted image 20240829133435.png | center]]
+
+![[APF.png]]
+
 - Lattice Parameter --> $a$
 - Atomic Radius --> $R$
 - Atom Number --> $N$
 **Theoretical Density of a Crystal**
+  
 $$\rho=\frac{nA_{element}}{V_{c}N_{A}}$$
+
 - $n$ --> number of atoms associated with each unit cell
 - $A$ --> atomic weight
 - $V_{c}$ --> volume of the unit cell
