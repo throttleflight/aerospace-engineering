@@ -1,5 +1,5 @@
 ---
-title: Crystallographic Points, Direction, and Planes
+title: Crystallographic Points, Directions, and Planes
 ---
 
 #### Table of Contents
