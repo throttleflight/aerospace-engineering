@@ -1,10 +1,7 @@
 ---
-CourseCode: FMS
-Semester: 2024-2025
-Relevance: Low
-Module: 01 - Module I
+title: Crystallographic Points, Direction, and Planes
 ---
-#FMS 
+
 #### Point Coordinates
 >[!Definition]
 >Fractional multiples of the unit cell edge lengths.
@@ -31,12 +28,19 @@ For cubic crystals (only), planes and directions having the same indices are per
 - $\frac{c}{a}$ varies for different structures.
 - $\frac{c}{a}=1.633$ for hexagonal close-packed (hep) structure.
 #### Linear and Planar Atomic Densities
+
 $$LD = \frac{Number \space of \space atoms \space centered \space on \space direction \space vector}{Length \space of \space direction \space vector}$$
+
 $$PD=\frac{Number \space of \space atoms \space centered \space on \space a \space plane}{Area \space of \space plane}$$
+
 #### Stacking Sequence in FCC and HCP Structures
+
 ![[FCC and HCP.png| center]]
+
 $(a)$ A portion of a close-packed plane of atoms; $A$, $B$, and $C$ position are indicated.
+
 $(b)$ The $AB$ stacking for close-packed atomic planes.
+
 ##### Stacking
 - close-packed crystal structure
 - close-packed plane of atoms
