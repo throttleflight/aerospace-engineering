@@ -41,8 +41,9 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      "Website": "https://throttleflight.webflow.io",
+      "Discord Community": "https://discord.gg/5nFarnmDK7",
+      "Pateron": "https://www.patreon.com/throttleflight",
     },
   }),
 }
