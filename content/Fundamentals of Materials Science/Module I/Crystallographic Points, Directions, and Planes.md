@@ -2,6 +2,17 @@
 title: Crystallographic Points, Direction, and Planes
 ---
 
+#### Table of Contents
+1. [[#Point Coordinates|Point Coordinates]]
+2. [[#Crystallographic Directions|Crystallographic Directions]]
+3. [[#Crystallographic Planes|Crystallographic Planes]]
+4. [[#Determination of Planar (Miller) Indices|Determination of Planar (Miller) Indices]]
+5. [[#Family of Crystallographic Planes|Family of Crystallographic Planes]]
+6. [[#Hexagonal Structure|Hexagonal Structure]]
+7. [[#Linear and Planar Atomic Densities|Linear and Planar Atomic Densities]]
+8. [[#Stacking Sequence in FCC and HCP Structures|Stacking Sequence in FCC and HCP Structures]]
+	1. [[#Stacking|Stacking]]
+---
 #### Point Coordinates
 >[!Definition]
 >Fractional multiples of the unit cell edge lengths.
