@@ -4,7 +4,7 @@ enableExplorer: true
 ---
 
 # Classes
-| Class Name (3)                            | Course Code | Professor              | Syllabus                                                                |
+| Class Name (4)                            | Course Code | Professor              | Syllabus                                                                |
 | ----------------------------------------- | ----------- | ---------------------- | ----------------------------------------------------------------------- |
 | [[Calculus1TOC|Calculus I]]               | MMFEC1X     | DelftX                 | [[Calculus I/Syllabus|Syllabus]]   |
 | [[Calculus2TOC|Calculus II]]              | MMFEC2X     | DelftX                 | [[Calculus II/Syllabus|Syllabus]] |
