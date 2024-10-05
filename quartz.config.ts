@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🛠 Aerospace Engineering Notes",
+    pageTitle: "🛠 Aerospace & Aviation Notes",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
