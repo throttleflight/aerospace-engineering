@@ -1,5 +1,5 @@
 ---
-title: Higher Order Parital Derivatives
+title: 4. Higher Order Parital Derivatives
 ---
 
 #### Second Order Partial Derivatives

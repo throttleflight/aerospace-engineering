@@ -1,5 +1,5 @@
 ---
-title: Extreme Values
+title: 2. Extreme Values
 ---
 
 #### Absolute Extreme Values

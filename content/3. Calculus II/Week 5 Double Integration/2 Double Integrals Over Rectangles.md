@@ -1,5 +1,5 @@
 ---
-title: Double Integrals Over Rectangles
+title: 3. Double Integrals Over Rectangles
 ---
 
 #### From Double Integral to Iterated Integral

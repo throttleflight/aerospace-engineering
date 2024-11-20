@@ -1,5 +1,5 @@
 ---
-title: Fundamental Concepts
+title: 1. Fundamental Concepts
 ---
 
 - Definition of double integral <-- [[1 Double Integrals]]

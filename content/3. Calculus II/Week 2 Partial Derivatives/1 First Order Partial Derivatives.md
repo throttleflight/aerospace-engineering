@@ -1,5 +1,5 @@
 ---
-title: First Order Partial Derivatives
+title: 2. First Order Partial Derivatives
 ---
 
 #### Partial Derivative (Two Variables)

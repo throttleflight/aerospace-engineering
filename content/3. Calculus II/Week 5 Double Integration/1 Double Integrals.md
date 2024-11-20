@@ -1,5 +1,5 @@
 ---
-title: Double Integrals
+title: 2. Double Integrals
 ---
 
 #### Interpretation

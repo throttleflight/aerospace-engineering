@@ -1,5 +1,5 @@
 ---
-title: The Chain Rule For Partial Derivatives
+title: 5. The Chain Rule For Partial Derivatives
 ---
 
 #### Chain Rule - One Variable

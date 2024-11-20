@@ -1,5 +1,5 @@
 ---
-title: Multivariable Functions
+title: 2. Multivariable Functions
 ---
 
 #### Function of Several Variables

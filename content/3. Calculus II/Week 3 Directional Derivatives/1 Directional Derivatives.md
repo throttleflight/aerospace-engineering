@@ -1,5 +1,5 @@
 ---
-title: Directional Derivatives
+title: 2. Directional Derivatives
 ---
 
 #### Interpretation

@@ -1,5 +1,5 @@
 ---
-title: Double Integrals Over General Regions
+title: 4. Double Integrals Over General Regions
 ---
 
 #### Type I and Type II Regions

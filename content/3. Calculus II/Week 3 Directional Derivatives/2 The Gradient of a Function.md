@@ -1,5 +1,5 @@
 ---
-title: The Gradient of a Function
+title: 3. The Gradient of a Function
 ---
 
 #### Directional Derivative

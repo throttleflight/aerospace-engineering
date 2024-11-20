@@ -1,5 +1,5 @@
 ---
-title: Tangent Plane and Linearization
+title: 3. Tangent Plane and Linearization
 ---
 
 #### Tangent Line

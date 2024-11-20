@@ -1,5 +1,5 @@
 ---
-title: Triple Integrals Over General Regions
+title: 3. Triple Integrals Over General Regions
 ---
 
 Referring to Type I and Type II regions from Double Integrals --> [[3 Double Integrals Over General Regions]]

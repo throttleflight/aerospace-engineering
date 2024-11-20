@@ -1,5 +1,5 @@
 ---
-title: Triple Integrals
+title: 2. Triple Integrals
 ---
 
 #### Triple Integral

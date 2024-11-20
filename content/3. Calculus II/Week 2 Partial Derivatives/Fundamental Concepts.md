@@ -1,5 +1,5 @@
 ---
-title: Fundamental Concepts
+title: 1. Fundamental Concepts
 ---
 
 - Definition of partial derivative <-- [[1 First Order Partial Derivatives]]

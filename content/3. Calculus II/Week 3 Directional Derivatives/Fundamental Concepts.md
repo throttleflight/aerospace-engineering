@@ -1,5 +1,5 @@
 ---
-title: Fundamental Concepts
+title: 1. Fundamental Concepts
 ---
 
 - Definition of directional derivative <-- [[1 Directional Derivatives]]

@@ -1,5 +1,5 @@
 ---
-title: Contour Plots
+title: 4. Contour Plots
 ---
 
 #### Drawing the graph of a function $f(x,y)$

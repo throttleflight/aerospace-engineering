@@ -1,5 +1,5 @@
 ---
-title: Finding Extreme Values
+title: 4. Finding Extreme Values
 ---
 
 #### Critical Points

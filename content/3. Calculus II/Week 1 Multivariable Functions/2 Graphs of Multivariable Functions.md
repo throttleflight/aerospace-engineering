@@ -1,5 +1,5 @@
 ---
-title: Graphs of Multivariable Functions
+title: 3. Graphs of Multivariable Functions
 ---
 
 #### Graph (2 Dimensional)

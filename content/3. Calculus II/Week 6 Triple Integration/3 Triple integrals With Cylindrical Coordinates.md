@@ -1,5 +1,5 @@
 ---
-title: Triple Integrals With Cylindrical Coordinates
+title: 4. Triple Integrals With Cylindrical Coordinates
 ---
 
 #### Triple Integrals In Cylindrical Coordinates

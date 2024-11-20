@@ -1,5 +1,5 @@
 ---
-title: Critical Points
+title: 3. Critical Points
 ---
 
 #### Critical Point

@@ -1,5 +1,5 @@
 ---
-title: Triple Integrals With Spherical Coordinates
+title: 5. Triple Integrals With Spherical Coordinates
 ---
 
 #### Triple Integral In Spherical Coordinates
