@@ -1,5 +1,5 @@
 ---
-title: Introduction to Differential Equations
+title: 2. Introduction to Differential Equations
 ---
 
 #### Differential Equations

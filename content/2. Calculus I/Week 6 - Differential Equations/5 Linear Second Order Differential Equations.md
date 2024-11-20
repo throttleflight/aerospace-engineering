@@ -1,5 +1,5 @@
 ---
-title: Linear Second Order Differential Equations
+title: 6. Linear Second Order Differential Equations
 ---
 
 #### First Order Linear Differential Equations

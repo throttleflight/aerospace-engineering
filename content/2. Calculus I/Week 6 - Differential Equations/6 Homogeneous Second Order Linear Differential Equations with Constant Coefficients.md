@@ -1,5 +1,5 @@
 ---
-title: Homogeneous Second Order Linear Differential Equations with Constant Coefficients
+title: 7. Homogeneous Second Order Linear Differential Equations with Constant Coefficients
 ---
 
 #### Constant Coefficients

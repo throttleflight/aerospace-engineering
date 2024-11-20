@@ -1,5 +1,5 @@
 ---
-title: Separable Differential Equations
+title: 4. Separable Differential Equations
 ---
 
 #### Separable Differential Equations

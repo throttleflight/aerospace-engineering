@@ -1,5 +1,5 @@
 ---
-title: Approximation by Taylor Polynomials
+title: 10. Approximation by Taylor Polynomials
 ---
 
 #### Taylor Polynomials

@@ -1,5 +1,5 @@
 ---
-title: Method of Undetermined Coefficients
+title: 9. Method of Undetermined Coefficients
 ---
 
 #### Method of Undetermined Coefficients

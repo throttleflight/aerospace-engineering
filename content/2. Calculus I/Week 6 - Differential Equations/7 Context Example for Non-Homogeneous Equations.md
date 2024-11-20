@@ -1,5 +1,5 @@
 ---
-title: Context Example for Non-Homogeneous Equations
+title: 8. Context Example for Non-Homogeneous Equations
 ---
 
 #### Resonance

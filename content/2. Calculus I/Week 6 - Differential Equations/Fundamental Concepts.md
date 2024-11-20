@@ -1,5 +1,5 @@
 ---
-title: Fundamental Concepts
+title: 1. Fundamental Concepts
 ---
 
 - Definition of a differential equation <-- [[1 Introduction to Differential Equations]]
