@@ -1,5 +1,5 @@
 ---
-title: Application of Asymptotes and Growth Rates
+title: 3. Application of Asymptotes and Growth Rates
 ---
 
 #### Growth Rates

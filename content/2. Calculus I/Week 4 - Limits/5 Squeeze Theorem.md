@@ -1,5 +1,5 @@
 ---
-title: Squeeze Theorem
+title: 6. Squeeze Theorem
 ---
 
 #### Mass-Spring-Damper

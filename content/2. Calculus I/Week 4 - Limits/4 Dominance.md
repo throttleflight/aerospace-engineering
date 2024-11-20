@@ -1,5 +1,5 @@
 ---
-title: Dominance
+title: 5. Dominance
 ---
 
 #### Hierarchy of Dominance

@@ -1,5 +1,5 @@
 ---
-title: Computation Rules
+title: 3. Computation Rules
 ---
 
 > [!abstract] Sum Rule

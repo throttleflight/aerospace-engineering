@@ -1,5 +1,5 @@
 ---
-title: Fundamental Concepts
+title: 1. Fundamental Concepts
 ---
  
 - Definition of the derivative --> [[1 Introduction to Derivatives]]

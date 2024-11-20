@@ -1,5 +1,5 @@
 ---
-title: Introduction to Integrals
+title: 2. Introduction to Integrals
 ---
 
 Integration is the opposite reaction of differentiation. There is including a signed area, compounding a process, center of mass/average.

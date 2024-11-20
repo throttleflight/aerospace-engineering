@@ -1,5 +1,5 @@
 ---
-title: Unbounded Domains
+title: 8. Unbounded Domains
 ---
 
 #### Bell Curve - Expectation

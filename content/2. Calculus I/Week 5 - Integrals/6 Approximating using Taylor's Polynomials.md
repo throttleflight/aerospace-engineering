@@ -1,5 +1,5 @@
 ---
-title: Approximating using Taylor's Polynomials
+title: 7. Approximating using Taylor's Polynomials
 ---
 
 #### Problem

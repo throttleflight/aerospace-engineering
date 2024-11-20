@@ -1,5 +1,5 @@
 ---
-title: Linearization
+title: 3. Linearization
 ---
 
 Let's take an example of a sine function.

@@ -1,5 +1,5 @@
 ---
-title: Introduction to Derivatives
+title: 2. Introduction to Derivatives
 ---
 
 #### Rate of Change

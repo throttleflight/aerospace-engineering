@@ -1,5 +1,5 @@
 ---
-title: Taylor Polynomials
+title: 5. Taylor Polynomials
 ---
 
 Taylor polynomials is a generalization of the concept of a linearization.

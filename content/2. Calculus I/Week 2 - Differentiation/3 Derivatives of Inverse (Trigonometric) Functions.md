@@ -1,5 +1,5 @@
 ---
-title: Derivatives of Inverse (Trigonometric) Functions
+title: 5. Derivatives of Inverse (Trigonometric) Functions
 ---
 
 Let's take the equation of $y=\arcsin(x)$.

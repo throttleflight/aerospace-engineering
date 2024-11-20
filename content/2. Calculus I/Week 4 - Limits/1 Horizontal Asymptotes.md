@@ -1,5 +1,5 @@
 ---
-title: Horizontal Asymptotes
+title: 2. Horizontal Asymptotes
 ---
 
 Using an example model of Newton's law of cooling, we figure out the equation:

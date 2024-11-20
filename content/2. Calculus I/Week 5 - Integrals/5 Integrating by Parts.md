@@ -1,5 +1,5 @@
 ---
-title: Integrating by Parts
+title: 6. Integrating by Parts
 ---
 
 #### Notation

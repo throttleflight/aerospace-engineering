@@ -1,5 +1,5 @@
 ---
-title: Taylor's Inequality
+title: 6. Taylor's Inequality
 ---
 
 #### Approximation Error

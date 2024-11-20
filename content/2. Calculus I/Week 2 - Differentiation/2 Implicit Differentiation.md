@@ -1,5 +1,5 @@
 ---
-title: Implicit Differentiation
+title: 4. Implicit Differentiation
 ---
 
 #### Implicit Functions

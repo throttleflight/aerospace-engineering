@@ -1,5 +1,5 @@
 ---
-title: Fundamental Concepts
+title: 1. Fundamental Concepts
 ---
 
 - Interpretation of the integral <-- [[1 Introduction to Integrals]]

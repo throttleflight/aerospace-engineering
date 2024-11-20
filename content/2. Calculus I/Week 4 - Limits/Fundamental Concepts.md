@@ -1,5 +1,5 @@
 ---
-title: Fundamental Concepts
+title: 1. Fundamental Concepts
 ---
 
 - Definition of a horizontal asymptote <-- [[1 Horizontal Asymptotes]]

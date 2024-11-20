@@ -1,5 +1,5 @@
 ---
-title: Differentiation Rules
+title: 3. Differentiation Rules
 ---
 
 >[!Standard Derivatives]

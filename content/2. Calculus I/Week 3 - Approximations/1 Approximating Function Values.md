@@ -1,5 +1,5 @@
 ---
-title: Approximating Function Values
+title: 2. Approximating Function Values
 ---
 
 We can discuss the properties of functions. For example, $f(x) = \sqrt{ x }$. The derivative would be $f'(x)=\frac{1}{2\sqrt{ x }}$. The maximal domain would be $D = [0, ∞)$. Then lastly, we have the functional values. The values can be like $f(36) = 6$, $f(100)=10$, $f(0.25)=0.5$, but how can we express $f(101)$?

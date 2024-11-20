@@ -1,5 +1,5 @@
 ---
-title: Fundamental Concepts
+title: 1. Fundamental Concepts
 ---
  
 - Definition of approximation <-- [[1 Approximating Function Values]]
