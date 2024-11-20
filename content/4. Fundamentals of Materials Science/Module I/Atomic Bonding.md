@@ -1,5 +1,5 @@
 ---
-title: Atomic Bonding
+title: 1. Atomic Bonding
 ---
 
 #### Table of Contents

@@ -1,5 +1,5 @@
 ---
-title: Crystal Structure of Metals
+title: 3. Crystal Structure of Metals
 ---
 
 #### Table of Contents

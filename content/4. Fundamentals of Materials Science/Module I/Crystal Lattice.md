@@ -1,5 +1,5 @@
 ---
-title: Crystal Lattice
+title: 2. Crystal Lattice
 ---
 
 #### Table of Contents
